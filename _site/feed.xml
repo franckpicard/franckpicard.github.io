@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-01-03T18:15:03+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Franck Picard</title><author><name>Franck Picard</name></author><entry><title type="html">Welcome</title><link href="http://localhost:4000/2018/01/01/welcome.html" rel="alternate" type="text/html" title="Welcome" /><published>2018-01-01T00:00:00+01:00</published><updated>2018-01-01T00:00:00+01:00</updated><id>http://localhost:4000/2018/01/01/welcome</id><content type="html" xml:base="http://localhost:4000/2018/01/01/welcome.html">&lt;p&gt;I work at the &lt;a href=&quot;https://lbbe.univ-lyon1.fr&quot;&gt;Laboratoire de Biométrie et Biologie Evolutive&lt;/a&gt;, Lyon.&lt;/p&gt;
+
+&lt;p&gt;I am the principal investigator of the &lt;a href=&quot;https://lbbe.univ-lyon1.fr/-Equipe-Statistique-en-Grande-.html&quot;&gt;High Dimensional Statistics for Genomics group&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;mailto:franck.picard@univ-lyon1.fr&quot;&gt;contact me&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Laboratoire de Biométrie et Biologie Evolutive &lt;br /&gt;
+UMR 5558 CNRS Univ. Lyon 1 - Bât. Grégor Mendel &lt;br /&gt;
+43 bd du 11 novembre 1918 &lt;br /&gt;
+69622 Villeurbanne cedex &lt;br /&gt;
++33 (0)4 72 44 85 44 &lt;br /&gt;&lt;/p&gt;</content><author><name>Franck Picard</name></author><summary type="html">I work at the Laboratoire de Biométrie et Biologie Evolutive, Lyon. I am the principal investigator of the High Dimensional Statistics for Genomics group. contact me Laboratoire de Biométrie et Biologie Evolutive UMR 5558 CNRS Univ. Lyon 1 - Bât. Grégor Mendel 43 bd du 11 novembre 1918 69622 Villeurbanne cedex +33 (0)4 72 44 85 44</summary></entry></feed>
