@@ -4,26 +4,28 @@ title: Students & Postdocs
 sidebar_link: true
 ---
 
-## Postdocs
-- Anna Bonnet (2017-2018), Spatial Interactions of Genomic Features (with [V. Rivoirard](https://www.ceremade.dauphine.fr/~rivoirar/))
-- Florian Massip (2016-2017), Evolution of the spatial program of replication (with [L. Duret](https://lbbe.univ-lyon1.fr/-Duret-Laurent-.html))
+### Postdocs
+
+- [Francois Gindraud]() (2018-2019), Computations on Hawkes process
+- [Anna Bonnet](https://anna.biogeek.land/) (2017-2018), Spatial Interactions of Genomic Features (with [V. Rivoirard](https://www.ceremade.dauphine.fr/~rivoirar/))
+- [Florian Massip](https://scholar.google.fr/citations?user=1NBY-s4AAAAJ&hl=fr) (2016-2017), Evolution of the spatial program of replication (with [L. Duret](https://lbbe.univ-lyon1.fr/-Duret-Laurent-.html))
 - [Jos Kafer](https://lbbe.univ-lyon1.fr/-Kafer-Jos-.html)(2015-2017), Detection of sex chromosomes in plants (with [G. Marais](https://lbbe.univ-lyon1.fr/-Marais-Gabriel-.html) and [N. Lartillot](https://lbbe.univ-lyon1.fr/-Lartillot-Nicolas-.html)). Now CNRS associate researcher, LBBE.
 - [Laurent Modolo](http://www.ens-lyon.fr/LBMC/laboratoire/annuaire/modolo-laurent) (2015-2017), Single Cell genomic data analysis, with [J. Mold](http://ki.se/en/cmb/jonas-frisens-group). Now CNRS research engineer, Lyon
 - [Guillemette Marot](http://cerim.univ-lille2.fr/pages-individuelles-chercheurs/pages-perso-guillemette-marot/guillemette-marot-briend.html) (2009-2010), curve clustering, with [S. Lambert-Lacroix](http://membres-timc.imag.fr/Sophie.Lambert/). Now assistant professor, Lille University,
 
-## PhD students
+### PhD students
 
 - Stéphane Ivanoff (2014-2016) (50%) High dimensional statistics for counting processes (with [V. Rivoirard](https://www.ceremade.dauphine.fr/~rivoirar/))
-- Ghislain Durif (2013-2016) (50%), Dimension Reduction for NGS data, with [S. Lambert-Lacroix](http://membres-timc.imag.fr/Sophie.Lambert/)
+- [Ghislain Durif](https://dg.frama.site/) (2013-2016) (50%), Dimension Reduction for NGS data, with [S. Lambert-Lacroix](http://membres-timc.imag.fr/Sophie.Lambert/)
 - [Joyce Madison Giacofci](https://perso.univ-rennes2.fr/joyce.giacofci) (2009-2013) (50%), Curve clustering and functional mixed models, with [S. Lambert-Lacroix](http://membres-timc.imag.fr/Sophie.Lambert/). Now Assistant professor, Rennes 2 University.
 
 ### PhD students (without official supervision)
 
 - Aline Muyle (2012-2013), Detection of sex chromosomes using NGS data, with [G. Marais](https://lbbe.univ-lyon1.fr/-Marais-Gabriel-.html)
-- Laurent Modolo (2011-2013), Hidden Markov model for multiple testing with genomic dependence, with [E. Lerat](https://lbbe.univ-lyon1.fr/-Lerat-Emmanuelle-.html)
+- [Laurent Modolo](http://www.ens-lyon.fr/LBMC/laboratoire/annuaire/modolo-laurent) (2011-2013), Hidden Markov model for multiple testing with genomic dependence, with [E. Lerat](https://lbbe.univ-lyon1.fr/-Lerat-Emmanuelle-.html)
 - Elisabetta Bonafede (25%), Mixture Models for RNASeq data, with [S. Robin](https://www6.inra.fr/mia-paris/Equipes/Membres/Stephane-Robin), and [C. Viroli](https://www.unibo.it/sitoweb/cinzia.viroli).
 
-## Master students
+### Master students
 
 - Cervin Guyomar (75%), 2015, Régression fonctionnelle de Poisson pour l'analyse de données NGS, with  [V. Rivoirard](https://www.ceremade.dauphine.fr/~rivoirar/) and [P. Veber](https://lbbe.univ-lyon1.fr/-Veber-Philippe-.html)
 - Ghislain Durif (50%), 2013, Régression PLS with [S. Lambert-Lacroix](http://membres-timc.imag.fr/Sophie.Lambert/)

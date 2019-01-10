@@ -4,10 +4,10 @@ title: Publications
 sidebar_link: true
 ---
 
-## Preprints 
+### Preprints 
 
 {% bibliography --query @misc[category=techreport] %}
 
-## Articles
+### Articles
 
 {% bibliography --query @article[category=article] %}

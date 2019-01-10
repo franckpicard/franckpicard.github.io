@@ -4,7 +4,9 @@ title: Conferences
 sidebar_link: true
 fa-icon: book
 ---
-## Presentations
+### Presentations
+- <a href="{{ '/assets/pdf/presentations/presentation_ascona.pdf' | prepend: site.baseurl | prepend: site.url }}">[pdf]</a>  Multivariate Statistics for single-cell data analysis <br/>
+- <a href="{{ '/assets/pdf/presentations/nhpp.pdf' | prepend: site.baseurl | prepend: site.url }}">[pdf]</a> Continuous testing for Poisson Process Intensities <br/>
 - <a href="{{ '/assets/pdf/presentations/IPR16.pdf' | prepend: site.baseurl | prepend: site.url }}">[pdf]</a> Adaptive sparse Poisson functional regression for the analysis of NGS Data <br/>
 - <a href="{{ '/assets/pdf/presentations/HDR-defense.pdf' | prepend: site.baseurl | prepend: site.url }}">[pdf]</a> A statistical tour of genomic data (HDR defense) <br/>
 - <a href="{{ '/assets/pdf/presentations/GLL12.pdf' | prepend: site.baseurl | prepend: site.url }}">[pdf]</a> Wavelet-based clustering for mixed-effects functional models in high dimension.<br/>
@@ -16,8 +18,10 @@ fa-icon: book
 - <a href="{{ '/assets/pdf/presentations/mixnet.pdf' | prepend: site.baseurl | prepend: site.url }}">[pdf]</a> Uncovering structure in biological networks.<br/>
 - <a href="{{ '/assets/pdf/presentations/franckdefense.pdf' | prepend: site.baseurl | prepend: site.url }}">[pdf]</a> A segmentation-clustering problem for the analysis of array CGH data.<br/>
 
-## Invited conferences (from 2011)
+### Invited conferences (from 2011)
 
+- Multivariate Statistics for single-cell data analysis, Statistical Challenges in single-cell biology, Ascona 2017
+- Continuous Testing for Poisson Process Intensities, Journées MAS, SMAI, Grenoble, France 2016
 - Adaptive Lasso and group-Lasso for functional Poisson regression, 8th International Conference of the ERCIM WG on Computational and Methodological Statistics, Londres, December 2015
 - Introduction to the statistical analysis of omics data in high dimension, LyonSysBio, Lyon, November 2015
 - G4 motifs are necessary but not sufficient for replication initiation in vertebrates, A.-L.Valton, F. Picard, P. Alberti, C. Saintomé, J.-F. Riou, and M.-N. Prioleau (speaker), G4 motifs are necessary but not sufficient for replication initiation in vertebrates, Eukaryotic DNA replication and Genome maintenance, Cold Spring Harbor, September 2015
@@ -28,7 +32,7 @@ fa-icon: book
 - Using scan statistics for peak detection in NGS data, 3rd Bioinformatics Workshop Canceropôles CLARA-PACA, Lyon, September 2011
 - Modèles de détection de ruptures et applications avec le logiciel R, Journée Palettes R INED-SFdS-MNHN, Paris, April 2011
 
-## Conferences with Proceedings (from 2011)
+### Conferences with Proceedings (from 2011)
 
 - Rigaill, R. Miele, V., Picard, F., Fast and parallel Algorithm for Population-Based Segmentation of Copy-Number Profiles, CIBB 2013, Tenth International Meeting on Computational Intelligence, Methods for Bioinformatics and Biostatistics, Nice, France, June 2013.
 - Spatio-temporal characterization of the replication program along the whole human genome, Cadoret, J.C Picard, F., Audit, B. Arneodo, A. Duret, L. Prioleau, M.N., Cold Spring Harbor Laboratory Meetings, New York, 2011

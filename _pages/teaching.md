@@ -4,8 +4,7 @@ title: Teaching
 sidebar_link: true
 ---
 
-## Statistique Inférentielle (French)
-
+### Statistique Inférentielle (French)
 
 -  <a href="{{ '/assets/pdf/teaching/siab1.pdf' | prepend: site.baseurl | prepend: site.url }}">Estimation, modèles et intervalles de confiance</a>, <a href="{{ '/assets/pdf/teaching/siab2.pdf' | prepend: site.baseurl | prepend: site.url }}"> tests</a>
 - Introduction à l'analyse de la variance à <a href="{{ '/assets/pdf/teaching/siab3.pdf' | prepend: site.baseurl | prepend: site.url }}">un</a> et <a href="{{ '/assets/pdf/teaching/siab4.pdf' | prepend: site.baseurl | prepend: site.url }}">deux</a> facteurs
@@ -24,10 +23,10 @@ sidebar_link: true
 - [WikiStat](http://wikistat.fr)
 - [Statistiques Médicales en Ligne](https://mistis.inrialpes.fr/software/SMEL/)
 
-## Classification (non)supervisée 
+### Classification (non)supervisée 
 - <a href="{{ '/assets/pdf/teaching/clustering.pdf' | prepend: site.baseurl | prepend: site.url }}">[pdf]</a>
 
-## Modèles linéaires mixtes
+### Modèles linéaires mixtes
 
 - <a href="{{ '/assets/pdf/teaching/introduction.pdf' | prepend: site.baseurl | prepend: site.url }}">Introduction</a>
 - Modèle à <a href="{{ '/assets/pdf/teaching/notes-1way.pdf' | prepend: site.baseurl | prepend: site.url }}">un</a> et <a href="{{ '/assets/pdf/teaching/notes-2way.pdf' | prepend: site.baseurl | prepend: site.url }}">deux</a> facteurs et split plot
@@ -40,10 +39,10 @@ sidebar_link: true
 - les documents de [Pierre Dagnelie](http://www.dagnelie.be) et de Jean Louis Foulley
 - [The EM algorithm and extensions](https://www.wiley.com/en-fr/The+EM+Algorithm+and+Extensions,+2nd+Edition-p-9780471201700), McLachlan and T. Krishnan, Wiley
 
-## Analyse des séquences biologiques
+### Analyse des séquences biologiques
 - <a href="{{ '/assets/pdf/teaching/sequences.pdf' | prepend: site.baseurl | prepend: site.url }}">[pdf]</a>
 
-## Statistical Analysis of Microarray data
+### Statistical Analysis of Microarray data
 - <a href="{{ '/assets/pdf/teaching/mpr04.pdf' | prepend: site.baseurl | prepend: site.url }}">[pdf]</a>
 
 

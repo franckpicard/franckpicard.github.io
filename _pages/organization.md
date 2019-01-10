@@ -6,7 +6,7 @@ sidebar_link: true
 
 ### Permanent Appointments
 
-- [Commission Interdisciplinaire 51 du CNRS](http://cid51.cnrs.fr), scientific secretary 
+- [Commission Interdisciplinaire 51 du CNRS](http://cid51.cnrs.fr), president
 - [Statistical Methods for Post-genomic Data](https://www.smpgd.fr), member of the steering committee
 
 
