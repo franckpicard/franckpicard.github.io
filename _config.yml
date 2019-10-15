@@ -6,7 +6,7 @@ highlighter:      rouge
 title:            Franck Picard
 #tagline:          'A Jekyll theme'
 description:      #'The <a href="http://hyde.getpoole.com" target="_blank">Hyde</a> theme for <a href="http://jekyllrb.com" target="_blank">Jekyll</a>, refreshed.'
-#url:              /home/picard/website
+url:              https://franckpicard.github.io
 baseurl:          # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
                   # If you want to move just the blog index pages but keep
@@ -23,6 +23,7 @@ paginate:         5
 # Includes
 include: ['_pages']
 
+
 plugins:
   - jekyll-feed
   - jekyll-gist
@@ -35,7 +36,7 @@ scholar:
 
   last_name: Picard
 
-  style: /assets/bib/jc-style.csl
+  style: assets/bib/jc-style.csl
   locale: en
 
   sort_by: year

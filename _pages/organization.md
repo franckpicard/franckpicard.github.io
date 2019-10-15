@@ -11,7 +11,7 @@ sidebar_link: true
 
 
 ### Others
-
+- PI of the [SingleStatomics](http://anr-singlestatomics.pages.math.cnrs.fr/) project (2019-2023)
 - Member of the steering committee of the "Young Probabilists and Statisticians" SMAI workshop (2012-2016)
 - [JOBIM 2016](https://jobim2016.sciencesconf.org) (French National Bioinformatics conference) president of the organization committee
 - Meeting between the Camille Jordan Institute and the LBBE (with Anne-Laure Fougères), March 2012

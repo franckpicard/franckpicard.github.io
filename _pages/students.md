@@ -6,7 +6,7 @@ sidebar_link: true
 
 ### Postdocs
 
-- [Francois Gindraud]() (2018-2019), Computations on Hawkes process
+- [Francois Gindraud](https://lbbe.univ-lyon1.fr/-Gindraud-Francois-.html) (2018-2019), Computations on Hawkes process
 - [Anna Bonnet](https://anna.biogeek.land/) (2017-2018), Spatial Interactions of Genomic Features (with [V. Rivoirard](https://www.ceremade.dauphine.fr/~rivoirar/))
 - [Florian Massip](https://scholar.google.fr/citations?user=1NBY-s4AAAAJ&hl=fr) (2016-2017), Evolution of the spatial program of replication (with [L. Duret](https://lbbe.univ-lyon1.fr/-Duret-Laurent-.html))
 - [Jos Kafer](https://lbbe.univ-lyon1.fr/-Kafer-Jos-.html)(2015-2017), Detection of sex chromosomes in plants (with [G. Marais](https://lbbe.univ-lyon1.fr/-Marais-Gabriel-.html) and [N. Lartillot](https://lbbe.univ-lyon1.fr/-Lartillot-Nicolas-.html)). Now CNRS associate researcher, LBBE.
@@ -15,6 +15,9 @@ sidebar_link: true
 
 ### PhD students
 
+- Claire Gayral (2019-2022) (50%) Single Cell data integration with [J. Chiquet](http://julien.cremeriefamily.info/) 
+- Anthony Ozier-Lafontaine (2019-2022) (50%), Single Cell Genomic Data Analysis with [B. Michel](http://bertrand.michel.perso.math.cnrs.fr/)
+- Ryad Belhakem (2018-2021) (30%) Functional PCA (with [V. Rivoirard](https://www.ceremade.dauphine.fr/~rivoirar/) and [A. Roche](https://www.ceremade.dauphine.fr/~roche/))
 - Stéphane Ivanoff (2014-2016) (50%) High dimensional statistics for counting processes (with [V. Rivoirard](https://www.ceremade.dauphine.fr/~rivoirar/))
 - [Ghislain Durif](https://dg.frama.site/) (2013-2016) (50%), Dimension Reduction for NGS data, with [S. Lambert-Lacroix](http://membres-timc.imag.fr/Sophie.Lambert/)
 - [Joyce Madison Giacofci](https://perso.univ-rennes2.fr/joyce.giacofci) (2009-2013) (50%), Curve clustering and functional mixed models, with [S. Lambert-Lacroix](http://membres-timc.imag.fr/Sophie.Lambert/). Now Assistant professor, Rennes 2 University.
@@ -27,6 +30,8 @@ sidebar_link: true
 
 ### Master students
 
+- Claire Gayral (50%), 2019, intégration de données en cellules uniques with  [J. Chiquet](http://julien.cremeriefamily.info/) 
+- Clément Bénesse (75%), 2019, Réduction de dimension non linéaire en génomique with [B. Michel](http://bertrand.michel.perso.math.cnrs.fr/)
 - Cervin Guyomar (75%), 2015, Régression fonctionnelle de Poisson pour l'analyse de données NGS, with  [V. Rivoirard](https://www.ceremade.dauphine.fr/~rivoirar/) and [P. Veber](https://lbbe.univ-lyon1.fr/-Veber-Philippe-.html)
 - Ghislain Durif (50%), 2013, Régression PLS with [S. Lambert-Lacroix](http://membres-timc.imag.fr/Sophie.Lambert/)
 - Francois Mifsud (2013) Etude du transcriptome des neurones répondant à la leptine par RNA-Seq, avec [C. Vaisse](https://bms.ucsf.edu/faculty/christian-vaisse-md-phd)

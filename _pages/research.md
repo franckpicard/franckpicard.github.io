@@ -10,6 +10,9 @@ The aim of my research is to develop statistical methods dedicated to the analys
 
 We develop statistical methods for the analysis of single cell data. We started by proposing a new method for PLS for classification, and we recently proposed a probabilistic version of PCA adapted to the analysis of over-dispersed counts with zero inflation. Recent developments focus on ATACSeq data analysis.
 
+You can check the page of the [SingleStatomics](http://anr-singlestatomics.pages.math.cnrs.fr/) project
+
+
 ### Point process modeling in genomics
 
 Recent projects focus on the spatial modeling of genomic data using point processes. We developed a testing procedure based on continuous testing to compare maps of genomic features, while controling for multiple (continuous) error rates. We also develop Hawkes models to catch spatial interactions between genomic features.
