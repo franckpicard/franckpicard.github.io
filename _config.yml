@@ -3,67 +3,33 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            Franck Picard
-#tagline:          'A Jekyll theme'
-description:      #'The <a href="http://hyde.getpoole.com" target="_blank">Hyde</a> theme for <a href="http://jekyllrb.com" target="_blank">Jekyll</a>, refreshed.'
-#url:              /home/picard/website
-baseurl:          # the optional subpath of your site, e.g. "/blog"
+title:            Hydeout
+tagline:          'A Jekyll theme'
+description:      'The <a href="http://hyde.getpoole.com" target="_blank">Hyde</a> theme for <a href="http://jekyllrb.com" target="_blank">Jekyll</a>, refreshed.'
+url:              https://fongandrew.github.io
+baseurl:          '/hydeout'
+                  # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
                   # If you want to move just the blog index pages but keep
                   # other pages at root, see the paginate_path and
                   # sidebar_blog_link below.
 
 author:
-  name:           'Franck Picard'
-#  url:            https://twitter.com/fongandrewc
+  name:           'Andrew Fong'
+  url:            https://twitter.com/fongandrewc
 
 paginate:         5
 # paginate_path:    '/page:num'
                     # Or '/blog/page:num' if you want to move your index pages
-# Includes
-include: ['_pages']
 
 plugins:
   - jekyll-feed
   - jekyll-gist
   - jekyll-paginate
-  - jekyll/scholar
-  - jemoji
 
-# Jekyll-Scholar
-scholar:
-
-  last_name: Picard
-
-  style: /assets/bib/jc-style.csl
-  locale: en
-
-  sort_by: year
-  order: descending
-
-  source: _bibliography/
-  bibliography: papers.bib
-  bibliography_template: <div class="text-justify">{{reference}}</div>
-
-
-
-  replace_strings: true
-  join_strings: true
-
-  #details_dir: bibliography
-  #details_layout: bib.html
-  #details_link: Details
-
-  query: "@*"
-
-fonts:
-
- primary: Roboto Slab
- secondary: Helvetica
-
-# -----------------------------------------------------------------------------
-# Other settings
-# -----------------------------------------------------------------------------
-jquery_version: "1.12.4"
-katex_version: "0.7.1"
-anchorjs_version: "3.2.2"  
+# Sidebar link settings
+sidebar_home_link:  true
+# sidebar_blog_link:  '/blog'   # By default, your home page is your blog
+                                # page. If you change your paginate_path,
+                                # set this to the root of the paginate_path
+                                # to enable a separate blog link.
