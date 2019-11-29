@@ -2,9 +2,8 @@
 markdown: kramdown
 highlighter: rouge
 title: Franck Picard
-tagline: A Jekyll theme
 url: https://franckpicard.github.io
-baseurl: ""
+baseurl: /franckpicard.github.io
 
 author:
   name: Franck Picard
