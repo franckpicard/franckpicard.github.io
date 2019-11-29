@@ -3,7 +3,7 @@ markdown: kramdown
 highlighter: rouge
 title: Franck Picard
 url: https://franckpicard.github.io
-baseurl: /franckpicard.github.io
+baseurl: '' # /franckpicard.github.io
 
 author:
   name: Franck Picard
@@ -45,9 +45,9 @@ fonts:
  secondary: Helvetica
 
 theme_colors:
-  sidebar-bg-color: "#000000"
+  sidebar-bg-color: "#0B1728" 
   sidebar-fg-color: "#FFFFFF"
-  link-color: "#000000"
+  link-color: "#268bd2"
 
 sidebar-sticky: true
 
