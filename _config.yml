@@ -3,7 +3,6 @@ markdown: kramdown
 highlighter: rouge
 title: Franck Picard
 tagline: A Jekyll theme
-description: homepage
 url: https://franckpicard.github.io
 baseurl: ""
 
@@ -19,8 +18,27 @@ plugins:
 - jekyll-feed
 - jekyll-gist
 - jekyll-paginate
+- jekyll/scholar
+- jemoji
 
 sidebar_home_link: true
+
+# Jekyll-Scholar
+scholar:
+
+  last_name: Picard
+
+  style: assets/bib/jc-style.csl
+  #style: /home/picard/website/assets/bib/jc-style.csl
+  locale: en
+
+  sort_by: year
+  order: descending
+
+  source: _bibliography/
+  #source: /home/picard/website/_bibliography/
+  bibliography: papers.bib
+  bibliography_template: <div class="text-justify">{{reference}}</div>
 
 fonts:
 
