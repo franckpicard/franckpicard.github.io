@@ -1,8 +1,6 @@
 ---
 layout: category
 title: Conferences
-sidebar_link: true
-fa-icon: book
 ---
 ## Presentations
 - <a href="{{ '/assets/pdf/presentations/IPR16.pdf' | prepend: site.baseurl | prepend: site.url }}">[pdf]</a> Adaptive sparse Poisson functional regression for the analysis of NGS Data <br/>

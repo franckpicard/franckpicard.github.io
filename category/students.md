@@ -1,7 +1,6 @@
 ---
 layout: category
 title: Students & Postdocs
-sidebar_link: true
 ---
 
 ### Postdocs

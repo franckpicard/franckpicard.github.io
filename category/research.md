@@ -1,7 +1,6 @@
 ---
 layout: category
 title: Research
-sidebar_link: true
 ---
 
 ### Single Cell genomics

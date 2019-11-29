@@ -1,7 +1,6 @@
 ---
 layout: category
 title: Organization
-sidebar_link: true
 ---
 
 ### Current Appointments

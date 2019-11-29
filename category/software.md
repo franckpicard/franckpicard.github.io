@@ -1,7 +1,6 @@
 ---
 layout: category
 title: Software
-sidebar_link: true
 ---
 
 ### [pCMF](https://r-forge.r-project.org/R/?group_id=2275)
