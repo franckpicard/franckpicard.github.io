@@ -8,7 +8,7 @@ title: Teaching
 
 -  <a href="{{ '/assets/pdf/teaching/siab1.pdf' | prepend: site.baseurl | prepend: site.url }}">Estimation, modèles et intervalles de confiance</a>, <a href="{{ '/assets/pdf/teaching/siab2.pdf' | prepend: site.baseurl | prepend: site.url }}"> tests</a>
 - Introduction à l'analyse de la variance à <a href="{{ '/assets/pdf/teaching/siab3.pdf' | prepend: site.baseurl | prepend: site.url }}">un</a> et <a href="{{ '/assets/pdf/teaching/siab4.pdf' | prepend: site.baseurl | prepend: site.url }}">deux</a> facteurs
-- Introduction à la <a href="{{ '/assets/pdf/teaching/siab5.pdf' }}">régression linéaire</a>
+- Introduction à la [régression linéaire]({{site.baseurl}}/assets/pdf/teaching/siab5.pdf)
 
 
 #### Références
