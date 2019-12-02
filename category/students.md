@@ -13,8 +13,8 @@ title: Students & Postdocs
 
 ### PhD students
 
-- Anthony Ozier Lafontaine (2019-2022) (50%) High Dimensional Testing for Single Cell Data Analysis (with [B. Michel](http://bertrand.michel.perso.math.cnrs.fr/)
-- Claire Gayral (2019-2022) (50%) Single Cell data integration (with [J. Chiquet](http://julien.cremeriefamily.info/) 
+- Anthony Ozier Lafontaine (2019-2022) (50%) High Dimensional Testing for Single Cell Data Analysis (with [B. Michel](http://bertrand.michel.perso.math.cnrs.fr/))
+- Claire Gayral (2019-2022) (50%) Single Cell data integration (with [J. Chiquet](http://julien.cremeriefamily.info/))
 - Ryad Belhaken (2018-2021) (30%) Functional data analysis (with [V. Rivoirard](https://www.ceremade.dauphine.fr/~rivoirar/) and [A. Roche](https://www.ceremade.dauphine.fr/~roche/))
 - Stéphane Ivanoff (2014-2016) (50%) High dimensional statistics for counting processes (with [V. Rivoirard](https://www.ceremade.dauphine.fr/~rivoirar/))
 - [Ghislain Durif](https://dg.frama.site) (2013-2016) (50%), Dimension Reduction for NGS data, with [S. Lambert-Lacroix](http://membres-timc.imag.fr/Sophie.Lambert/), now CNRS Research Engineer, Montpellier
