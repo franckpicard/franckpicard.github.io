@@ -15,11 +15,11 @@ title: Publications
 
 * F. Massip, M. Laurent, C. Brossas, J.-M. Fernández-Justel, M. Gómez, M.-N. Prioleau, L. Duret, F. Picard, Evolution of replication origins in vertebrate genomes: rapid turnover despite selective constraints, [Nucleic acids research 47 (10), 5114-5125](https://hal.archives-ouvertes.fr/hal-02349718)
 * F. Picard, P. Reynaud-Bouret, and E. Roquain. Continuous testing for poisson process intensities: A new perspective on scanning statistics. Biometrika, 2018 [arxiv version](https://arxiv.org/abs/1705.08800)
-* A. Muyle, N. Zemp, C. Fruchard, R. Cegan, J. Vrana, C. Deschamps, R. Tavares, R. Hobza, F. Picard, A. Widmer, and G. A. B. Marais. Genomic imprinting mediates dosage compensation in a young plant XY system. Nat Plants, Aug 2018
+* A. Muyle, N. Zemp, C. Fruchard, R. Cegan, J. Vrana, C. Deschamps, R. Tavares, R. Hobza, F. Picard, A. Widmer, and G. A. B. Marais. Genomic imprinting mediates dosage compensation in a young plant XY system. Nat Plants, Aug 2018 [PCI version](https://hal.archives-ouvertes.fr/hal-01851376)
 * G. Durif, L. Modolo, J. E. Mold, and F. a. Lambert-Lacroix, Sophie Picard. Probabilistic count matrix factorization for single cell expression data analysis. In RECOMB, 2018 [arxiv version](https://arxiv.org/abs/1710.11028)
 * G. Durif, L. Modolo, J. Michaelsson, J. Mold, S. Lambert-Lacroix, and F. Picard. High dimensional classification with combined adaptive sparse pls and logistic regression. [Bioinformatics, 2017](https://academic.oup.com/bioinformatics/article/34/3/485/4157444)
-* Giacofci M, Lambert-Lacroix S, Picard F: Minimax wavelet estimation for multisample heteroscedastic nonparametric regression Journal of Nonparametric Statistics: 1–24, 2017
-* Durif G, Modolo L, Michaelsson J, Mold JE, Lambert-Lacroix S, Picard F: High Dimensional Classification with combined Adaptive Sparse PLS and Logistic Regression Bioinformatics, 2017
+* Giacofci M, Lambert-Lacroix S, Picard F: Minimax wavelet estimation for multisample heteroscedastic nonparametric regression Journal of Nonparametric Statistics: 1–24, 2017 [arxiv version](https://arxiv.org/abs/1511.04556) 
+* Durif G, Modolo L, Michaelsson J, Mold JE, Lambert-Lacroix S, Picard F: High Dimensional Classification with combined Adaptive Sparse PLS and Logistic Regression [Bioinformatics, 2017](https://academic.oup.com/bioinformatics/article/34/3/485/4157444)
 * Viallon V, Lambert-Lacroix S, Hoefling H, Picard F: On the robustness of the generalized fused lasso to prior specifications Statistics and Computing 26: 285–301, 2016
 * Bonafede E, Picard F, Robin S, Viroli C: Modeling overdispersion heterogeneity in differential expression analysis using mixtures Biometrics 72: 804–814, 2016
 * Ivanoff S, Picard F, Rivoirard V: Adaptive Lasso and group-Lasso for functional Poisson regression Journal of Machine Learning Research 17: 1–46, 2016
