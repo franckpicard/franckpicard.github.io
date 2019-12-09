@@ -5,22 +5,19 @@ title: Publications
 
 ## Preprints 
 
-* Jeff E Mold, Laurent Modolo, Joanna Hård, Margherita Zamboni, Anton JM Larsson, Carl-Johan Eriksson, Patrik L Ståhl, Erik Borgström, Simone Picelli, Björn Reinius, Rickard Sandberg, Pedro Réu, Carlos Talavera-Lopez, Björn Andersson, Kim Blom, Johan K Sandberg, Franck Picard, Jakob Michaëlsson, Jonas Frisén, Clonally distinct differentiation trajectories shape CD8+ memory T cell heterogeneity after acute viral infections in humans, bioRxiv, 832899
-* Picard F, Reynaud-Bouret P, Roquain E: Continuous testing for Poisson process intensities: A new perspective on scanning statistics arXiv preprint arXiv:170508800, 2017
-* Muyle A, Zemp N, Fruchard C, Cegan R, Vrana J, Deschamps C, Tavares R, Picard F, et al.: Genomic imprinting mediates dosage compensation in a young plant XY system bioRxiv: 179044, 2017
-* Durif G, Modolo L, Mold JE, Picard F, Lambert-Lacroix S: Probabilistic Count Matrix Factorization for Single Cell Expression Data Analysis arXiv preprint arXiv:171011028, 2017
-* Bonnet A, Rivoirard V, Picard F: Modeling Spatial Genomic Interactions with the Hawkes model bioRxiv: 214874, 2017
+* JE Mold, L Modolo, (...) F Picard, J Michaëlsson, J Frisén, Clonally distinct differentiation trajectories shape CD8+ memory T cell heterogeneity after acute viral infections in humans [bioRxiv, 832899](https://www.biorxiv.org/content/10.1101/832899v2)
+* Bonnet A, Rivoirard V, Picard F: Modeling Spatial Genomic Interactions with the Hawkes model [bioRxiv: 214874](https://www.biorxiv.org/content/10.1101/214874v1.abstract), 2017
 * Picard F, Martin-Magniette ML, Gagnot S, Brunaud V, Aubert A-VG, Robin S, Caboche M, Lecharny A, et al.: MixThres: mixture models to define a hybridization threshold in DNA microarray experiments, 2008
 * Picard F: An introduction to mixture models Statistics for Systems Biology, Research Report, 2007
 * Picard F: An introduction to process segmentation Statistics for systems biology group 6, 2007
 
 ## Articles
 
-* F. Massip, M. Laurent, C. Brossas, J.-M. Fernández-Justel, M. Gómez, M.-N. Prioleau, L. Duret, F. Picard, Evolution of replication origins in vertebrate genomes: rapid turnover despite selective constraints, Nucleic acids research 47 (10), 5114-5125
-* F. Picard, P. Reynaud-Bouret, and E. Roquain. Continuous testing for poisson process intensities: A new perspective on scanning statistics. Biometrika, 2018
+* F. Massip, M. Laurent, C. Brossas, J.-M. Fernández-Justel, M. Gómez, M.-N. Prioleau, L. Duret, F. Picard, Evolution of replication origins in vertebrate genomes: rapid turnover despite selective constraints, [Nucleic acids research 47 (10), 5114-5125](https://hal.archives-ouvertes.fr/hal-02349718)
+* F. Picard, P. Reynaud-Bouret, and E. Roquain. Continuous testing for poisson process intensities: A new perspective on scanning statistics. Biometrika, 2018 [arxiv version](https://arxiv.org/abs/1705.08800)
 * A. Muyle, N. Zemp, C. Fruchard, R. Cegan, J. Vrana, C. Deschamps, R. Tavares, R. Hobza, F. Picard, A. Widmer, and G. A. B. Marais. Genomic imprinting mediates dosage compensation in a young plant XY system. Nat Plants, Aug 2018
-* G. Durif, L. Modolo, J. E. Mold, and F. a. Lambert-Lacroix, Sophie Picard. Probabilistic count matrix factorization for single cell expression data analysis. In RECOMB, 2018
-* G. Durif, L. Modolo, J. Michaelsson, J. Mold, S. Lambert-Lacroix, and F. Picard. High dimensional classification with combined adaptive sparse pls and logistic regression. Bioinformatics, 2017
+* G. Durif, L. Modolo, J. E. Mold, and F. a. Lambert-Lacroix, Sophie Picard. Probabilistic count matrix factorization for single cell expression data analysis. In RECOMB, 2018 [arxiv version](https://arxiv.org/abs/1710.11028)
+* G. Durif, L. Modolo, J. Michaelsson, J. Mold, S. Lambert-Lacroix, and F. Picard. High dimensional classification with combined adaptive sparse pls and logistic regression. [Bioinformatics, 2017](https://academic.oup.com/bioinformatics/article/34/3/485/4157444)
 * Giacofci M, Lambert-Lacroix S, Picard F: Minimax wavelet estimation for multisample heteroscedastic nonparametric regression Journal of Nonparametric Statistics: 1–24, 2017
 * Durif G, Modolo L, Michaelsson J, Mold JE, Lambert-Lacroix S, Picard F: High Dimensional Classification with combined Adaptive Sparse PLS and Logistic Regression Bioinformatics, 2017
 * Viallon V, Lambert-Lacroix S, Hoefling H, Picard F: On the robustness of the generalized fused lasso to prior specifications Statistics and Computing 26: 285–301, 2016
