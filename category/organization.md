@@ -11,6 +11,7 @@ title: Organization
 
 ### Others
 
+- [Probgen 2019](https://probgen2019.sciencesconf.org), member of the organization committee
 - Member of the steering committee of the "Young Probabilists and Statisticians" SMAI workshop (2012-2016)
 - [JOBIM 2016](https://jobim2016.sciencesconf.org) (French National Bioinformatics conference) president of the organization committee
 
