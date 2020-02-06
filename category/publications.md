@@ -4,7 +4,8 @@ title: Publications
 ---
 
 ## Preprints 
-
+* J. Käfer, N. Lartillot, G. A. Marais, and F. Picard. Detecting sex-linked genes using genotyped individuals sampled in natural populations. bioRxiv, 2020. doi: 10.1101/2020.01.31.928291
+* H. Badouin, A. Velt, F. Gindraud, T. Flutre, V. Dumas, S. Vautrin, W. Marande, J. Corbi, E. Sallet, J. Ganofsky, et al. The wild grape genome sequence provides insights into the transition from dioecy to hermaphroditism during grape domestication. bioRxiv, 2020
 * Jeff E Mold, Laurent Modolo, Joanna Hård, Margherita Zamboni, Anton JM Larsson, Carl-Johan Eriksson, Patrik L Ståhl, Erik Borgström, Simone Picelli, Björn Reinius, Rickard Sandberg, Pedro Réu, Carlos Talavera-Lopez, Björn Andersson, Kim Blom, Johan K Sandberg, Franck Picard, Jakob Michaëlsson, Jonas Frisén, Clonally distinct differentiation trajectories shape CD8+ memory T cell heterogeneity after acute viral infections in humans, bioRxiv, 832899
 * Picard F, Reynaud-Bouret P, Roquain E: Continuous testing for Poisson process intensities: A new perspective on scanning statistics arXiv preprint arXiv:170508800, 2017
 * Muyle A, Zemp N, Fruchard C, Cegan R, Vrana J, Deschamps C, Tavares R, Picard F, et al.: Genomic imprinting mediates dosage compensation in a young plant XY system bioRxiv: 179044, 2017
