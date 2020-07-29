@@ -3,20 +3,8 @@ layout: category
 title: Publications
 ---
 
-## Preprints 
-* J. Käfer, N. Lartillot, G. A. Marais, and F. Picard. Detecting sex-linked genes using genotyped individuals sampled in natural populations. bioRxiv, 2020. doi: 10.1101/2020.01.31.928291
-* H. Badouin, A. Velt, F. Gindraud, T. Flutre, V. Dumas, S. Vautrin, W. Marande, J. Corbi, E. Sallet, J. Ganofsky, et al. The wild grape genome sequence provides insights into the transition from dioecy to hermaphroditism during grape domestication. bioRxiv, 2020
-* J. E Mold, L. Modolo, J. Hård, (...) F. Picard, J. Michaëlsson, J. Frisén, Clonally distinct differentiation trajectories shape CD8+ memory T cell heterogeneity after acute viral infections in humans, bioRxiv, 832899
-* Picard F, Reynaud-Bouret P, Roquain E: Continuous testing for Poisson process intensities: A new perspective on scanning statistics arXiv preprint arXiv:170508800, 2017
-* Muyle A, Zemp N, Fruchard C, Cegan R, Vrana J, Deschamps C, Tavares R, Picard F, et al.: Genomic imprinting mediates dosage compensation in a young plant XY system bioRxiv: 179044, 2017
-* Durif G, Modolo L, Mold JE, Picard F, Lambert-Lacroix S: Probabilistic Count Matrix Factorization for Single Cell Expression Data Analysis arXiv preprint arXiv:171011028, 2017
-* Bonnet A, Rivoirard V, Picard F: Modeling Spatial Genomic Interactions with the Hawkes model bioRxiv: 214874, 2017
-* Picard F, Martin-Magniette ML, Gagnot S, Brunaud V, Aubert A-VG, Robin S, Caboche M, Lecharny A, et al.: MixThres: mixture models to define a hybridization threshold in DNA microarray experiments, 2008
-* Picard F: An introduction to mixture models Statistics for Systems Biology, Research Report, 2007
-* Picard F: An introduction to process segmentation Statistics for systems biology group 6, 2007
-
 ## Articles
-
+* H. Badouin, A. Velt, F. Gindraud, T Flutre, V. Dumas, S. Vautrin, W. Marande, J. Corbi, E. Sallet, J. Ganofsky, S. Santoni, D. Guyot, E. Ricciardelli, K. Jepsen, J.  Käfer, Jos, H. Berges, E. Duchêne, F. Picard, P. Hugueney, R. Tavares, R. Bacilieri, C. Rustenholz, G. Marais, The wild grape genome sequence provides insights into the transition from dioecy to hermaphroditism during grape domestication, [Genome Biology 2020 (Accepted)](https://www.biorxiv.org/content/early/2020/01/10/2020.01.07.897082)
 * F. Massip, M. Laurent, C. Brossas, J.-M. Fernández-Justel, M. Gómez, M.-N. Prioleau, L. Duret, F. Picard, Evolution of replication origins in vertebrate genomes: rapid turnover despite selective constraints, [Nucleic acids research 47 (10), 5114-5125](https://hal.archives-ouvertes.fr/hal-02349718)
 * F. Picard, P. Reynaud-Bouret, and E. Roquain. Continuous testing for poisson process intensities: A new perspective on scanning statistics. Biometrika, 2018 [arxiv version](https://arxiv.org/abs/1705.08800)
 * A. Muyle, N. Zemp, C. Fruchard, R. Cegan, J. Vrana, C. Deschamps, R. Tavares, R. Hobza, F. Picard, A. Widmer, and G. A. B. Marais. Genomic imprinting mediates dosage compensation in a young plant XY system. Nat Plants, Aug 2018 [PCI version](https://hal.archives-ouvertes.fr/hal-01851376)
@@ -53,3 +41,7 @@ title: Publications
 * Govaerts C, Srinivasan S, Shapiro A, Zhang S, Picard F, Clement K, Lubrano-Berthelier C, Vaisse C, et al.: Obesity-associated mutations in the melanocortin 4 receptor provide novel insights into its function Peptides 26: 1909–1919, 2005
 * Srinivasan S, Lubrano-Berthelier C, Govaerts C, Picard F, Santiago P, Conklin BR, Vaisse C: Constitutive activity of the melanocortin-4 receptor is maintained by its N-terminal domain and plays a role in energy homeostasis in humans Journal of Clinical Investigation 114: 1158, 2004
 
+## Preprints 
+* J. Käfer, N. Lartillot, G. A. Marais, and F. Picard. Detecting sex-linked genes using genotyped individuals sampled in natural populations. bioRxiv, 2020. doi: 10.1101/2020.01.31.928291
+* J. E Mold, L. Modolo, J. Hård, (...) F. Picard, J. Michaëlsson, J. Frisén, Clonally distinct differentiation trajectories shape CD8+ memory T cell heterogeneity after acute viral infections in humans, bioRxiv, 832899
+* Bonnet A, Rivoirard V, Picard F: Modeling Spatial Genomic Interactions with the Hawkes model bioRxiv: 214874, 2017
