@@ -10,6 +10,8 @@ title: Publications
 
 
 ## Articles
+
+* C. Brossas, A.‐L. Valton, S. V Venev, S. Chilaka, A. Counillon, M. Laurent, C. Goncalves, B. Duriez, F. Picard, J. Dekker, M.‐N. Prioleau, Clustering of strong replicators associated with active promoters is sufficient to establish an early‐replicating domain, [The EMBO Journal (2020) e99520](https://doi.org/10.15252/embj.20189952)
 * H. Badouin, A. Velt, F. Gindraud, T Flutre, V. Dumas, S. Vautrin, W. Marande, J. Corbi, E. Sallet, J. Ganofsky, S. Santoni, D. Guyot, E. Ricciardelli, K. Jepsen, J.  Käfer, Jos, H. Berges, E. Duchêne, F. Picard, P. Hugueney, R. Tavares, R. Bacilieri, C. Rustenholz, G. Marais, The wild grape genome sequence provides insights into the transition from dioecy to hermaphroditism during grape domestication, [Genome Biology 2020 (Accepted)](https://www.biorxiv.org/content/early/2020/01/10/2020.01.07.897082)
 * F. Massip, M. Laurent, C. Brossas, J.-M. Fernández-Justel, M. Gómez, M.-N. Prioleau, L. Duret, F. Picard, Evolution of replication origins in vertebrate genomes: rapid turnover despite selective constraints, [Nucleic acids research 47 (10), 5114-5125](https://hal.archives-ouvertes.fr/hal-02349718)
 * F. Picard, P. Reynaud-Bouret, and E. Roquain. Continuous testing for poisson process intensities: A new perspective on scanning statistics. Biometrika, 2018 [arxiv version](https://arxiv.org/abs/1705.08800)
