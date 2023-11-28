@@ -36,4 +36,5 @@ remote_theme: fongandrew/hydeout
 google_analytics: ''
 disqus:
   shortname: ''
-theme: jekyll-theme-hydeout
+# theme: jekyll-theme-hydeout # replaced by remote_theme
+
