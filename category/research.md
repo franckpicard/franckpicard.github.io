@@ -5,7 +5,7 @@ title: Research
 
 ### Single Cell genomics
 
-We develop statistical methods for the analysis of single cell data. We started by proposing a new method for PLS for classification, and we recently proposed a probabilistic version of PCA adapted to the analysis of over-dispersed counts with zero inflation. Recent developments focus on ATACSeq data analysis. Visit the [SingleStatomics](http://anr-singlestatomics.pages.math.cnrs.fr/) ANR project.
+We develop statistical methods for the analysis of single cell data. We started by proposing a new method for PLS for classification, and we recently proposed a probabilistic version of PCA adapted to the analysis of over-dispersed counts with zero inflation. Recent developments focus on kernel methods, non-parametric dimension reduction and spatial transcriptomics. Visit the [SingleStatomics](http://anr-singlestatomics.pages.math.cnrs.fr/) ANR project.
 
 ### Point process modeling in genomics
 

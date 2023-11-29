@@ -3,28 +3,30 @@ layout: category
 title: Teaching
 ---
 
-## Statistique Inférentielle (French)
+## Inférence Statistique (French)
 
-
--  <a href="{{ '/assets/pdf/teaching/siab1.pdf' | prepend: site.baseurl | prepend: site.url }}">Estimation, modèles et intervalles de confiance</a>, <a href="{{ '/assets/pdf/teaching/siab2.pdf' | prepend: site.baseurl | prepend: site.url }}"> tests</a>
-- Introduction à l'analyse de la variance à <a href="{{ '/assets/pdf/teaching/siab3.pdf' | prepend: site.baseurl | prepend: site.url }}">un</a> et <a href="{{ '/assets/pdf/teaching/siab4.pdf' | prepend: site.baseurl | prepend: site.url }}">deux</a> facteurs
-- Introduction à la [régression linéaire]({{site.baseurl}}/assets/pdf/teaching/siab5.pdf)
+- Content : introduction to statistical sampling, standard models, estimation, confidence intervals, tests, ANOVA and regression
+- [Slides and Practice](https://lbmc.gitbiopages.ens-lyon.fr/hub/formations/ens_l3_stats/) 
 
 
 #### Références
 
+- [Introduction to statistical thinking](https://pluto.huji.ac.il/~msby/StatThink/index.html), Benjamin Yakir, The Hebrew University of Jerusalem
 - [Statistique inférentielle, Idées, démarches, exemples](http://www.pur-editions.fr/detail.php?idOuv=830) (Daudin, Robin, Vuillet, PUR),
 - [Statistique en action](http://www.math.ens.fr/statenaction/) (Schtolz, Rivoirard, Vuibert),
 - [Statistiques avec R](http://math.agrocampus-ouest.fr/infoglueDeliverLive/enseignement/support2cours/livres/statistiques.avec.R) (Cornillon et al., PUR)
 
 #### Sites web
 
+- [Statistics in Action with R](http://sia.webpopix.org/)
 - [Enseignements de Statistique en Biologie](https://pbil.univ-lyon1.fr/R/)
 - [WikiStat](http://wikistat.fr)
 - [Statistiques Médicales en Ligne](https://mistis.inrialpes.fr/software/SMEL/)
 
-## Classification (non)supervisée 
-- <a href="{{ '/assets/pdf/teaching/clustering.pdf' | prepend: site.baseurl | prepend: site.url }}">[pdf]</a>
+## Machine Learning for Biologists (Masters Degree in Biology)
+
+- Content : Dimension Reduction, Clustering, Multiple Testing
+- [Slides and Practice](https://lbmc.gitbiopages.ens-lyon.fr/hub/formations/ens_m1_ml/)
 
 ## Modèles linéaires mixtes
 

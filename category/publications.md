@@ -4,13 +4,23 @@ title: Publications
 ---
 
 ## Preprints 
-* J. Käfer, N. Lartillot, G. A. Marais, and F. Picard. Detecting sex-linked genes using genotyped individuals sampled in natural populations. bioRxiv, 2020. doi: 10.1101/2020.01.31.928291
-* J. E Mold, L. Modolo, J. Hård, (...) F. Picard, J. Michaëlsson, J. Frisén, Clonally distinct differentiation trajectories shape CD8+ memory T cell heterogeneity after acute viral infections in humans, bioRxiv, 832899
-* Bonnet A, Rivoirard V, Picard F: Modeling Spatial Genomic Interactions with the Hawkes model bioRxiv: 214874, 2017
+
+* A. Ozier-Lafontaine, C. Fourneaux, G. Durif, C. Vallot, O. Gandrillon, S. Giraud, B. Michel, F. Picard, Kernel-Based Testing for Single-Cell Differential Analysis, arXiv:2307.08509, 2023
+* R. Belhakem, F. Picard, V. Rivoirard, and A. Roche. Minimax estimation of functional principal components from noisy discretized functional data. arXiv preprint arXiv:2110.12739, 2021
+* C. Fourneaux, L. Racine, C. Koering, S. Dussurgey, E. Vallin, A. Moussy, R. Parmentier, F. Brunard, D. Stockholm, L. Modolo, et al. Differentiation is accompanied by a progressive loss in transcriptional memory. bioRxiv, 2022
 
 
 ## Articles
 
+* J. Poulet-Benedetti, C. Tonnerre-Doncarli, A.-L. Valton, M. Laurent, M. Gerard, N. Barinova, N. Parisis, F. Massip, F. Picard, and M.-N. Prioleau. Dimeric G-quadruplex motifs determine a large fraction of strong replication origins in vertebrates. Nat Commun, 14, 1:4843.
+* M. Lepetit, M. D. Ilie, M. Chanal, G. Raverot, P. Bertolino, F. Picard, and O. Gandrillon. scan10:A reproducible and standardized pipeline for processing 10x single cell RNAseq data. In Silico Biol, 15, 1-2:11-21.
+* H. Van Assel, T. Espinasse, J. Chiquet, and F. Picard. A probabilistic graph coupling view of dimension reduction. Neurips, 2022
+* A. Bonnet, C. Lacour, F. Picard, and V. Rivoirard. Uniform deconvolution for poisson point processes. Journal of Machine Learning Research, 23(194):1–36, 2022
+* S. Zreika, C. Fourneaux, E. Vallin, L. Modolo, R. Seraphin, A. Moussy, E. Ventre, M. Bouvier, A. Ozier-Lafontaine, A. Bonnaffoux, et al. Evidence for close molecular proximity between reverting and undifferentiated cells. BMC biology, 20(1):1–16, 2022
+* J. Käfer, A. Bewick, A. Andres-Robin, G. Lapetoule, A. Harkess, J. Caïus, B. Fogliani, G. Gâteblé, P. Ralph, C. W. dePamphilis, et al. A derived zw chromosome system in amborella trichopoda, representing the sister lineage to all other extant flowering plants. New Phytologist, 233(4):
+1636–1642, 2022
+* J. Käfer, N. Lartillot, G. A. B. Marais, and F. Picard. Detecting sex-linked genes using genotyped individuals sampled in natural populations. Genetics, 218(2), 03 2021b 
+* J. E. Mold, L. Modolo, J. Hård, M. Zamboni, A. J. Larsson, M. Stenudd, C.-J. Eriksson, G. Durif, P. L. Ståhl, E. Borgström, S. Picelli, B. Reinius, R. Sandberg, P. Réu, C. Talavera-Lopez, B. Andersson, K. Blom, J. K. Sandberg, F. Picard, J. Michaëlsson, and J. Frisén. Divergent clonal differentiation trajectories establish cd8+ memory t cell heterogeneity during acute viral infections in humans. Cell Reports, 35(8):109174, 2021. ISSN 2211-1247
 * C. Brossas, A.‐L. Valton, S. V Venev, S. Chilaka, A. Counillon, M. Laurent, C. Goncalves, B. Duriez, F. Picard, J. Dekker, M.‐N. Prioleau, Clustering of strong replicators associated with active promoters is sufficient to establish an early‐replicating domain, [The EMBO Journal (2020) e99520](https://doi.org/10.15252/embj.20189952)
 * H. Badouin, A. Velt, F. Gindraud, T Flutre, V. Dumas, S. Vautrin, W. Marande, J. Corbi, E. Sallet, J. Ganofsky, S. Santoni, D. Guyot, E. Ricciardelli, K. Jepsen, J.  Käfer, Jos, H. Berges, E. Duchêne, F. Picard, P. Hugueney, R. Tavares, R. Bacilieri, C. Rustenholz, G. Marais, The wild grape genome sequence provides insights into the transition from dioecy to hermaphroditism during grape domestication, [Genome Biology 2020 (Accepted)](https://www.biorxiv.org/content/early/2020/01/10/2020.01.07.897082)
 * F. Massip, M. Laurent, C. Brossas, J.-M. Fernández-Justel, M. Gómez, M.-N. Prioleau, L. Duret, F. Picard, Evolution of replication origins in vertebrate genomes: rapid turnover despite selective constraints, [Nucleic acids research 47 (10), 5114-5125](https://hal.archives-ouvertes.fr/hal-02349718)
@@ -48,4 +58,5 @@ title: Publications
 * Picard F, Robin S, Lavielle M, Vaisse C, Daudin J-J: A statistical approach for array CGH data analysis BMC bioinformatics 6: 27, 2005
 * Govaerts C, Srinivasan S, Shapiro A, Zhang S, Picard F, Clement K, Lubrano-Berthelier C, Vaisse C, et al.: Obesity-associated mutations in the melanocortin 4 receptor provide novel insights into its function Peptides 26: 1909–1919, 2005
 * Srinivasan S, Lubrano-Berthelier C, Govaerts C, Picard F, Santiago P, Conklin BR, Vaisse C: Constitutive activity of the melanocortin-4 receptor is maintained by its N-terminal domain and plays a role in energy homeostasis in humans Journal of Clinical Investigation 114: 1158, 2004
+
 
