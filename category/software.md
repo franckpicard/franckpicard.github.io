@@ -3,6 +3,10 @@ layout: category
 title: Software
 ---
 
+### [ktest](https://github.com/AnthoOzier/ktest)
+
+Python/R package dedicated to kernel testing
+
 ### [pCMF](https://r-forge.r-project.org/R/?group_id=2275)
 
 R package dedicated to probabilistic PCA for overdispersed, zero inflated counts.

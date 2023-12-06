@@ -5,7 +5,7 @@ title: Students & Postdocs
 
 ### Postdocs
 
-- P. Lacroix (2023-2024), Kernel Methods for Single Cell data analysis.
+- [Perrine Lacroix](https://sites.google.com/view/placroix) (2023-2024), Non-asympotitic bounds for testing (with [B. Michel](http://bertrand.michel.perso.math.cnrs.fr/) and [V. Rivoirard](https://www.ceremade.dauphine.fr/~rivoirar/))
 - [Anna Bonnet](https://www.lpsm.paris/laboratoire/annuaire/bonnet/) (2017-2018), Spatial Interactions of Genomic Features (with [V. Rivoirard](https://www.ceremade.dauphine.fr/~rivoirar/)), now assistant professor, Paris 6 University.
 - Florian Massip (2016-2017), Evolution of the spatial program of replication (with [L. Duret](https://lbbe.univ-lyon1.fr/-Duret-Laurent-.html))
 - [Jos Kafer](https://lbbe.univ-lyon1.fr/-Kafer-Jos-.html)(2015-2017), Detection of sex chromosomes in plants (with [G. Marais](https://lbbe.univ-lyon1.fr/-Marais-Gabriel-.html) and [N. Lartillot](https://lbbe.univ-lyon1.fr/-Lartillot-Nicolas-.html)). Now CNRS associate researcher, LBBE.
@@ -14,9 +14,9 @@ title: Students & Postdocs
 
 ### PhD students
 
-- N. Bourarach (2022-2025), Functional Dimension Reduction for Count data, 30%, with V.Rivoirard and A. Roche, Dauphine Univ..
-- H. van Assel (2021-2024), Statistical Foundations of Stochastic Neighborhood Embedding, 50%, with A. Garivier, ENS Lyon.
-- Anthony Ozier Lafontaine (2019-2022) (50%) High Dimensional Testing for Single Cell Data Analysis (with [B. Michel](http://bertrand.michel.perso.math.cnrs.fr/))
+- N. Bourarach (2022-2025), Functional Dimension Reduction for Count data, (with [V. Rivoirard](https://www.ceremade.dauphine.fr/~rivoirar/) and [A. Roche](https://www.ceremade.dauphine.fr/~roche/))
+- H. van Assel (2021-2022), Statistical Foundations of Stochastic Neighborhood Embedding, 50%, with [A. Garivier](https://perso.ens-lyon.fr/aurelien.garivier/www.math.univ-toulouse.fr/_agarivie/index.html), ENS Lyon.
+- Anthony Ozier-Lafontaine (2019-2022) (50%) High Dimensional Testing for Single Cell Data Analysis (with [B. Michel](http://bertrand.michel.perso.math.cnrs.fr/))
 - Claire Gayral (2019-2020) (50%) Single Cell data integration (with [J. Chiquet](http://julien.cremeriefamily.info/))
 - Ryad Belhaken (2018-2021) (30%) Functional data analysis (with [V. Rivoirard](https://www.ceremade.dauphine.fr/~rivoirar/) and [A. Roche](https://www.ceremade.dauphine.fr/~roche/))
 - Stéphane Ivanoff (2014-2016) (50%) High dimensional statistics for counting processes (with [V. Rivoirard](https://www.ceremade.dauphine.fr/~rivoirar/))
@@ -28,6 +28,14 @@ title: Students & Postdocs
 - Aline Muyle (2012-2013), Detection of sex chromosomes using NGS data, with [G. Marais](https://lbbe.univ-lyon1.fr/-Marais-Gabriel-.html)
 - Laurent Modolo (2011-2013), Hidden Markov model for multiple testing with genomic dependence, with [E. Lerat](https://lbbe.univ-lyon1.fr/-Lerat-Emmanuelle-.html)
 - Elisabetta Bonafede (25%), Mixture Models for RNASeq data, with [S. Robin](https://www6.inra.fr/mia-paris/Equipes/Membres/Stephane-Robin), and [C. Viroli](https://www.unibo.it/sitoweb/cinzia.viroli).
+
+### Engineers
+
+- Polina Artenseva (2023-2024) (50%) Kernel Testing (with [B. Michel](http://bertrand.michel.perso.math.cnrs.fr/))
+- Benoit Samson (2023-2024) Single-cell data analysis
+- Maxime Lepetit (2020-2022) Single-celle data analysis
+- Francois Gindraud (2018-2020) Inference of Sex-Linked genes with genomic data.
+
 
 ### Master students
 
