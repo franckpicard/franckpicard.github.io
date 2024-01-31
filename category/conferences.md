@@ -4,7 +4,8 @@ title: Conferences
 ---
 
 ## Presentations
-- <a href="{{ '/assets/pdf/presentations/presentation_kfda_testing.pdf' | prepend: site.baseurl | prepend: site.url }}">[pdf]</a> Kernel-Based Testing for Single-Cell Differential Analysis <br/>
+- <a href="{{ '/assets/pdf/presentations/presentation_kfda_testing_bio.pdf' | prepend: site.baseurl | prepend: site.url }}">[pdf]</a> Kernel-Based Testing for Single-Cell Differential Analysis (for biologists)<br/>
+- <a href="{{ '/assets/pdf/presentations/presentation_kfda_testing_math.pdf' | prepend: site.baseurl | prepend: site.url }}">[pdf]</a> Kernel-Based Testing for Single-Cell Differential Analysis (for mathematicians)<br/>
 - <a href="{{ '/assets/pdf/presentations/presentation_probabilistic_tSNE.pdf' | prepend: site.baseurl | prepend: site.url }}">[pdf]</a> A Graph-Coupling view of Dimension Reduction <br/>
 - <a href="{{ '/assets/pdf/presentations/DMM17.pdf' | prepend: site.baseurl | prepend: site.url }}">[pdf]</a> Multivariate Statistics for Single Cell Data Analysis <br/>
 - <a href="{{ '/assets/pdf/presentations/PRFR17.pdf' | prepend: site.baseurl | prepend: site.url }}">[pdf]</a> Continous Testing for Poisson Processes Intensities <br/>
