@@ -31,3 +31,13 @@ I develop these methods in close collaboration with experimental and computation
 ## SCAI
 
 I lead the **SCAI — Artificial Intelligence for Single-Cell Data Analysis** team at the [Laboratory of Biology and Modeling of the Cell (LBMC)](https://www.ens-lyon.fr/LBMC) in Lyon. 
+
+<div class="academic-links">
+  <a href="https://orcid.org/0000-0001-8084-5481" target="_blank">ORCID</a>
+  ·
+  <a href="https://scholar.google.com/citations?user=nwqRw-YAAAAJ&hl=en" target="_blank">Google Scholar</a>
+  ·
+  <a href="https://cv.hal.science/franck-picard" target="_blank">HAL</a>
+  ·
+  <a href="https://github.com/franckpicard" target="_blank">GitHub</a>
+</div>

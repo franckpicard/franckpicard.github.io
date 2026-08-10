@@ -13,13 +13,9 @@ A PEPR Santé Numérique project focused on methodological foundations for singl
 
 [Visit the AI4scMed website](https://ai4scmed.github.io)
 
-## Spatial single-cell analysis
+## SpaceTranscriptomix
 
-I develop statistical methodology for **spatial transcriptomics and spatially resolved single-cell data**, combining kernel methods, point processes and spatial statistics to characterize tissue organization and molecular variability.
-
-## Explainable AI for single-cell biology
-
-I investigate **sensitivity analysis and interpretable AI** for high-dimensional biological data, with the goal of linking complex statistical decisions back to cells, genes and molecular processes.
+I develop statistical methodology for **spatial transcriptomics and spatially resolved single-cell data**, combining kernel methods, point processes and spatial statistics to characterize tissue organization and molecular variability with application to Pituitary tumors (with P. Bertolino, CRCL).
 
 ## SingleStatOmics — previous project
 
