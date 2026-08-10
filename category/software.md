@@ -1,45 +1,29 @@
 ---
 layout: category
 title: Software
+sidebar_sort_order: 6
 ---
 
+I contribute to open-source software that makes statistical methodology for single-cell and high-dimensional biological data accessible and reproducible.
+
+## Current software
+
 ### [ktest](https://github.com/AnthoOzier/ktest)
+**R / Python · Kernel hypothesis testing**<br>
+Tools for kernel-based statistical testing of high-dimensional and single-cell data.
 
-Python/R package dedicated to kernel testing
+### pyPLNmodels
+**Python · Probabilistic modeling of count data**<br>
+Methods based on Poisson log-normal models for multivariate count data and dimension reduction.
 
-### [pCMF](https://r-forge.r-project.org/R/?group_id=2275)
+### nucount
+**Spatial transcriptomics · Cell-number estimation**<br>
+Methods for estimating absolute cell numbers in spatial transcriptomics spots from histological images.
 
-R package dedicated to probabilistic PCA for overdispersed, zero inflated counts.
+### pppca
+**R · Point processes**<br>
+Principal component analysis methods for point-process data.
 
-### [plsgenomics](https://cran.r-project.org/web/packages/plsgenomics/index.html)
+## Previous software
 
-R package dedicated to Partial Least Squares methods.
-
-### [sexdetector](http://lbbe.univ-lyon1.fr/-SEX-DETector-.html)
-
-software to infer sex linked genes based on genotype data.
-
-### <a href="{{ '/assets/soft/scan-method.zip' | prepend: site.baseurl | prepend: site.url }}">OriSeq peak detection</a>
-
-C++ functions to detect peaks in OriSeq data.
-
-### <a href="{{ '/assets/soft/FunctionalPoisson.zip' | prepend: site.baseurl | prepend: site.url }}">functional Poisson regression</a>
-
-R functions to implement the Lasso and group-Lasso procedures for functional Poisson Regression
-
-### [curvclust](https://cran.r-project.org/web/packages/curvclust/index.html)
-
-R package dedicated to curve clustering with functional random effects. 
-
-### [cghseg](https://cran.r-project.org/web/packages/cghseg/index.html)
-
-R package dedicated to the segmentation of CGH arrays
-
-### [geoclust](https://lbbe.univ-lyon1.fr/geoclust)
-
-R package dedicated to the clustering of spatial network data
-
-### [mixeR](https://cran.r-project.org/web/packages/mixer/index.html)
-
-R package dedicated to the inference of Stochastic Bloc Models 
-
+Previous software contributions include **pCMF**, **plsgenomics**, **SEX-DETector**, **curvclust**, **cghseg**, **geoclust**, and methods for functional Poisson regression and genomic peak detection. These projects reflect my broader work in statistical genomics and computational biology.

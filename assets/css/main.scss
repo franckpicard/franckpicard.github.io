@@ -7,3 +7,71 @@ $link-color: {{ site.theme_colors.link-color }};
 $sidebar-sticky: {{ site.sidebar-sticky }};
 $layout-reverse: {{ site.layout-reverse }};
 @import "hydeout";
+/* Personal academic website additions */
+.content { max-width: 52rem; }
+.post-title, .page-title { letter-spacing: -0.02em; }
+
+.hero {
+  margin: 0 0 3rem;
+  padding: 1.2rem 0 2rem;
+  border-bottom: 1px solid #e5e7eb;
+}
+.hero h1 {
+  margin: .3rem 0 1rem;
+  font-size: 2.65rem;
+  line-height: 1.08;
+  letter-spacing: -0.045em;
+}
+.eyebrow {
+  margin-bottom: .3rem;
+  font-size: .78rem;
+  font-weight: 700;
+  letter-spacing: .12em;
+  text-transform: uppercase;
+  color: #64748b;
+}
+.hero-lead {
+  max-width: 46rem;
+  font-size: 1.22rem;
+  line-height: 1.55;
+}
+.research-tags {
+  font-size: .92rem;
+  font-weight: 600;
+  color: #475569;
+}
+.hero-actions { margin-top: 1.5rem; }
+a.button {
+  display: inline-block;
+  margin: 0 .55rem .55rem 0;
+  padding: .65rem .95rem;
+  border-radius: .35rem;
+  background: #0B1728;
+  color: white !important;
+  text-decoration: none;
+  font-weight: 600;
+}
+a.button-secondary {
+  background: transparent;
+  color: #0B1728 !important;
+  border: 1px solid #0B1728;
+}
+.card-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1rem;
+  margin: 1.5rem 0 2.5rem;
+}
+.scai-card {
+  padding: 1.15rem 1.25rem;
+  border: 1px solid #e2e8f0;
+  border-radius: .5rem;
+  background: #fff;
+}
+.scai-card h3 { margin-top: 0; margin-bottom: .4rem; }
+.scai-card p { margin-bottom: 0; font-size: .95rem; }
+
+@media (max-width: 700px) {
+  .hero h1 { font-size: 2rem; }
+  .card-grid { grid-template-columns: 1fr; }
+}

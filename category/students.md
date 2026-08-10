@@ -1,6 +1,7 @@
 ---
 layout: category
-title: Students & Postdocs
+title: Supervision
+sidebar_sort_order: 5
 ---
 
 ### Postdocs

@@ -1,6 +1,7 @@
 ---
 layout: category
 title: Teaching
+sidebar_sort_order: 7
 ---
 
 ## Inférence Statistique (French)

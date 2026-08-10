@@ -1,7 +1,13 @@
 ---
 layout: category
 title: Publications
+sidebar_sort_order: 4
 ---
+
+Our work spans statistical learning, single-cell genomics, spatial statistics and statistical genomics. This page currently provides a historical publication list; for the most up-to-date record, please consult Franck Picard’s HAL profile.
+
+**Current focus:** single-cell and spatial omics · kernel-based inference · point processes · statistical learning.
+
 
 ## Preprints 
 

@@ -25,7 +25,7 @@ sidebar_home_link: true
 theme_colors:
   sidebar-bg-color: "#0B1728" 
   sidebar-fg-color: "#FFFFFF"
-  link-color: "#268bd2"
+  link-color: "#2563a6"
 
 sidebar-sticky: true
 
