@@ -8,21 +8,17 @@ I contribute to open-source software that makes statistical methodology for sing
 
 ## Current software
 
-### [ktest](https://github.com/AnthoOzier/ktest)
+### [ktest](https://github.com/LMJL-Alea/ktest/) + [kAov](https://github.com/LMJL-Alea/kaov)
 **R / Python · Kernel hypothesis testing**<br>
 Tools for kernel-based statistical testing of high-dimensional and single-cell data.
 
-### pyPLNmodels
-**Python · Probabilistic modeling of count data**<br>
-Methods based on Poisson log-normal models for multivariate count data and dimension reduction.
-
-### nucount
-**Spatial transcriptomics · Cell-number estimation**<br>
+### [nucount](https://gitbio.ens-lyon.fr/LBMC/scai/nucount)
+**Python · Spatial transcriptomics · Cell-number estimation**<br>
 Methods for estimating absolute cell numbers in spatial transcriptomics spots from histological images.
 
-### pppca
-**R · Point processes**<br>
-Principal component analysis methods for point-process data.
+### [pppca](https://github.com/franckpicard/pppca)
+**R · Point processes · PCA**<br>
+Principal component analysis methods for replicated point-process data.
 
 ## Previous software
 
