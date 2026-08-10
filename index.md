@@ -4,12 +4,12 @@ title: Home
 sidebar_link: false
 ---
 
-<div class="hero">
+<div class="home-hero">
   <p class="eyebrow">CNRS Research Director · LBMC, ENS de Lyon</p>
   <h1>Statistics and Artificial Intelligence<br>for Single-Cell Biology</h1>
-  <p class="hero-lead">My research focuses on developing <strong>statistical learning and artificial intelligence methods</strong> for the analysis of <strong>single-cell and spatial omics data</strong>, with particular interests in <strong>statistical inference, kernel methods, spatial processes and explainable AI</strong>.</p>
+  <p class="hero-lead">My research focuses on developing <strong>statistical learning and artificial intelligence methods</strong> for the analysis of <strong>single-cell and spatial omics data</strong>.</p>
   <p class="research-tags">Statistical inference · Kernel methods · Spatial Processes · Spatial omics · Explainable AI</p>
-  <p class="hero-actions"><a class="button" href="{{ '/category/research.html' | relative_url }}">Research</a> <a class="button button-secondary" href="{{ '/category/projects.html' | relative_url }}">Projects</a></p>
+  <!-- <p class="hero-actions"><a class="button" href="{{ '/category/research.html' | relative_url }}">Research</a> <a class="button button-secondary" href="{{ '/category/projects.html' | relative_url }}">Projects</a></p> -->
 </div>
 
 <!-- 
