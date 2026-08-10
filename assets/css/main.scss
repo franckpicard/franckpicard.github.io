@@ -27,6 +27,11 @@ $layout-reverse: {{ site.layout-reverse }};
   line-height: 1.15;
 }
 
+.home-hero {
+  background-color: #fff;
+}
+
+
 @media (max-width: 600px) {
   .home-hero h1 {
     font-size: 1.9rem;
