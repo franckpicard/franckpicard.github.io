@@ -6,7 +6,7 @@ sidebar_link: false
 
 <div class="home-hero">
   <p class="eyebrow">CNRS Research Director · LBMC, ENS de Lyon</p>
-  <h1>Statistics and Artificial Intelligence<br>for Single-Cell Biology</h1>
+  <h2>Statistics and Artificial Intelligence<br>for Single-Cell Biology</h2>
   My research focuses on developing <strong>statistical learning and artificial intelligence methods</strong> for the analysis of <strong>single-cell and spatial omics data</strong>.
   <p class="research-tags">Statistical inference · Kernel methods · Spatial Processes · Spatial omics · Explainable AI</p>
 </div>
