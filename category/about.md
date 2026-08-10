@@ -1,10 +1,8 @@
 ---
 layout: category
-title: About
+title: Contact
 sidebar_sort_order: 8
 ---
-
-## Contact
  
 Laboratoire de Biologie et Modélisation de la Cellule  
 ENS de Lyon  
