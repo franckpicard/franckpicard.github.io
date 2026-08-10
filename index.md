@@ -4,19 +4,37 @@ title: Home
 sidebar_link: false
 ---
 
-**CNRS Research Director · LBMC, ENS de Lyon**
+<div class="home-hero">
+  <p class="eyebrow">CNRS Research Director · LBMC, ENS de Lyon</p>
+  <div class="academic-links">
+    <a href="https://orcid.org/0000-0001-8084-5481" target="_blank">ORCID</a>
+    ·
+    <a href="https://scholar.google.com/citations?user=nwqRw-YAAAAJ&hl=en" target="_blank">Google Scholar</a>
+    ·
+    <a href="https://cv.hal.science/franck-picard" target="_blank">HAL</a>
+    ·
+    <a href="https://github.com/franckpicard" target="_blank">GitHub</a>
+</div>
+  <h1>Statistics and Artificial Intelligence<br>for Single-Cell Biology</h1>
+  <p class="hero-lead">My research focuses on developing <strong>statistical learning and artificial intelligence methods</strong> for the analysis of <strong>single-cell and spatial omics data</strong>.</p>
+  <p class="research-tags">Statistical inference · Kernel methods · Spatial Processes · Spatial omics · Explainable AI</p>
+</div>
 
-# Statistics and Artificial Intelligence  
-# for Single-Cell Biology
-
-My research focuses on developing **statistical learning and artificial intelligence methods** for the analysis of **single-cell and spatial omics data**.
-
-*Statistical inference · Kernel methods · Spatial Processes · Spatial omics · Explainable AI*
 
 ---
 
 ## SCAI
 
-I lead the **SCAI — Artificial Intelligence for Single-Cell Data Analysis** team at the [Laboratory of Biology and Modeling of the Cell (LBMC)](https://www.ens-lyon.fr/LBMC) in Lyon.
+I lead the **SCAI — Artificial Intelligence for Single-Cell Data Analysis** team at the [Laboratory of Biology and Modeling of the Cell (LBMC)](https://www.ens-lyon.fr/LBMC) in Lyon. 
 
-[ORCID](https://orcid.org/0000-0001-8084-5481) · [Google Scholar](https://scholar.google.com/citations?user=nwqRw-YAAAAJ&hl=en) · [HAL](https://cv.hal.science/franck-picard) · [GitHub](https://github.com/franckpicard)
+
+---
+
+## Contact
+
+Laboratoire de Biologie et Modélisation de la Cellule  
+ENS de Lyon  
+46, allée d’Italie  
+69364 Lyon Cedex 07 · France  
+
+[franck.picard@ens-lyon.fr](mailto:franck.picard@ens-lyon.fr)

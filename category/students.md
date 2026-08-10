@@ -6,6 +6,7 @@ sidebar_sort_order: 5
 
 ### Postdocs
 
+- [Polina Artenseva](https://parsenteva.github.io) (2024-2026) (50%) Kernel Testing (with [B. Michel](http://bertrand.michel.perso.math.cnrs.fr/))
 - [Perrine Lacroix](https://sites.google.com/view/placroix) (2023-2024), Non-asympotitic bounds for testing (with [B. Michel](http://bertrand.michel.perso.math.cnrs.fr/) and [V. Rivoirard](https://www.ceremade.dauphine.fr/~rivoirar/))
 - [Anna Bonnet](https://www.lpsm.paris/laboratoire/annuaire/bonnet/) (2017-2018), Spatial Interactions of Genomic Features (with [V. Rivoirard](https://www.ceremade.dauphine.fr/~rivoirar/)), now assistant professor, Paris 6 University.
 - Florian Massip (2016-2017), Evolution of the spatial program of replication (with [L. Duret](https://lbbe.univ-lyon1.fr/-Duret-Laurent-.html))
@@ -15,6 +16,11 @@ sidebar_sort_order: 5
 
 ### PhD students
 
+- A. Galloy (2026–2029) — Spatial Processes for Spatial Transcriptomics, Co-supervised with J.-F. Coeurjolly (LJK, Grenoble) — 50%
+- M. Guignandon (2024–2029) — Sensitivity Analysis for Kernel Testing, Co-supervised with C. Helbert (ICJ, Lyon) — 50%
+- P. Rongerias (2024–2029) — Self-Supervised Learning for Single-Cell Data Analysis, Co-supervised with T. Vayer (IRISA, Rennes) — 25%
+- B. Samson (2024–2027) — Bioinformatics Approaches for the Study of Cellular Communications within Endocrine Tumors, Co-supervised with P. Bertolino (CRCL, Lyon) — 50%
+- L. Attwood** (2024–2027) — Kernel Methods for Spatial Data, Co-supervised with B. Michel (EC Nantes) — 50%
 - N. Bourarach (2022-2025), Functional Dimension Reduction for Count data, (with [V. Rivoirard](https://www.ceremade.dauphine.fr/~rivoirar/) and [A. Roche](https://www.ceremade.dauphine.fr/~roche/))
 - H. van Assel (2021-2022), Statistical Foundations of Stochastic Neighborhood Embedding, 50%, with [A. Garivier](https://perso.ens-lyon.fr/aurelien.garivier/www.math.univ-toulouse.fr/_agarivie/index.html), ENS Lyon.
 - Anthony Ozier-Lafontaine (2019-2022) (50%) High Dimensional Testing for Single Cell Data Analysis (with [B. Michel](http://bertrand.michel.perso.math.cnrs.fr/))
@@ -40,6 +46,11 @@ sidebar_sort_order: 5
 
 ### Master students
 
+- Alyassa Galloy (2026), Co-supervised with J.-F. Coeurjolly (Grenoble Univ.)
+- Maxime Guignandon (2026), Co-supervised with B. Michel (EC Nantes)
+- Lucas Fournier (2023), Co-supervised with B. Michel (EC Nantes) and D. Garreau (Würzburg Univ.)
+- Lucy Attwood (2023), Co-supervised with B. Michel (EC Nantes)
+- Adrien Thomas (2023)
 - Hugues Van Assel, 2021, Single Cell Dimension Reduction 
 - Claire Gayral (50%), 2019, Single Cell MultiOmics, with [J. Chiquet](http://julien.cremeriefamily.info) 
 - Clément Bénesse (50%), 2019, Singel Cell data analysis and Wasserstein metrics, with [B. Michel](http://bertrand.michel.perso.math.cnrs.fr)
