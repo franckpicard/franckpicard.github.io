@@ -34,11 +34,6 @@ sidebar_sort_order: 6
 - [Laurent Modolo](http://www.ens-lyon.fr/LBMC/laboratoire/annuaire/modolo-laurent) (2015-2017), Single Cell genomic data analysis, with [J. Mold](http://ki.se/en/cmb/jonas-frisens-group). Now CNRS research engineer, Lyon
 - [Guillemette Marot](http://cerim.univ-lille2.fr/pages-individuelles-chercheurs/pages-perso-guillemette-marot/guillemette-marot-briend.html) (2009-2010), curve clustering, with [S. Lambert-Lacroix](http://membres-timc.imag.fr/Sophie.Lambert/). Now assistant professor, Lille University,
 
-### PhD students (without official supervision)
-
-- Aline Muyle (2012-2013), Detection of sex chromosomes using NGS data, with [G. Marais](https://lbbe.univ-lyon1.fr/-Marais-Gabriel-.html)
-- Laurent Modolo (2011-2013), Hidden Markov model for multiple testing with genomic dependence, with [E. Lerat](https://lbbe.univ-lyon1.fr/-Lerat-Emmanuelle-.html)
-- Elisabetta Bonafede (25%), Mixture Models for RNASeq data, with [S. Robin](https://www6.inra.fr/mia-paris/Equipes/Membres/Stephane-Robin), and [C. Viroli](https://www.unibo.it/sitoweb/cinzia.viroli).
 
 ### Former Engineers
 
