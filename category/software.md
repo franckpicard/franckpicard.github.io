@@ -1,7 +1,7 @@
 ---
 layout: category
 title: Software
-sidebar_sort_order: 6
+sidebar_sort_order: 8
 ---
 
 I contribute to open-source software that makes statistical methodology for single-cell and high-dimensional biological data accessible and reproducible.

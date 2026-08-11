@@ -1,7 +1,7 @@
 ---
 layout: category
 title: Supervision
-sidebar_sort_order: 5
+sidebar_sort_order: 6
 ---
 
 ### Postdocs

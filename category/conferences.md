@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Talks
+sidebar_sort_order: 5
 ---
 
 ## Presentations

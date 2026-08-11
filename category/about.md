@@ -1,7 +1,7 @@
 ---
 layout: category
 title: Contact
-sidebar_sort_order: 8
+sidebar_sort_order: 10
 ---
  
 Laboratoire de Biologie et Modélisation de la Cellule  
