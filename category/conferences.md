@@ -12,8 +12,3 @@ sidebar_sort_order: 5
 - <a href="{{ '/assets/pdf/presentations/DMM17.pdf' | prepend: site.baseurl | prepend: site.url }}">[pdf]</a> Multivariate Statistics for Single Cell Data Analysis <br/>
 - <a href="{{ '/assets/pdf/presentations/PRFR17.pdf' | prepend: site.baseurl | prepend: site.url }}">[pdf]</a> Continous Testing for Poisson Processes Intensities <br/>
 - <a href="{{ '/assets/pdf/presentations/IPR16.pdf' | prepend: site.baseurl | prepend: site.url }}">[pdf]</a> Adaptive sparse Poisson functional regression for the analysis of NGS Data <br/>
-
-## Recent Invited conferences 
-
-- Graph-Based Embedding for Dimension Reduction, Measure-theoretic Approaches and Optimal Transportation in Statistics, Paris, Institut Henri Poincaré 2022.
-- A Graph Coupling View of Dimension Reduction, Inverse Problems in Biology, Paris, Institut Henri Poincaré 2022.
