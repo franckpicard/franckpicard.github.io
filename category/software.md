@@ -8,6 +8,10 @@ I contribute to open-source software that makes statistical methodology for sing
 
 ## Current software
 
+### [knit](https://gitbio.ens-lyon.fr/lattwood/knit)
+**Python · Kernel Normalised Independence Test**<br>
+Method for kernel-based statistical testing of independence between distributions.
+
 ### [ktest](https://github.com/LMJL-Alea/ktest/) + [kAov](https://github.com/LMJL-Alea/kaov)
 **R / Python · Kernel hypothesis testing**<br>
 Tools for kernel-based statistical testing of high-dimensional and single-cell data.
