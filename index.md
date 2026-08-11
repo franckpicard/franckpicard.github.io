@@ -19,8 +19,6 @@ I lead the **SCAI — Artificial Intelligence for Single-Cell Data Analysis** te
 
 ---
 
-## CV
-
 My CV is <a href="{{ '/assets/pdf/presentations/pppca.pdf' | prepend: site.baseurl | prepend: site.url }}">[here]</a> (August 2026)
 
 ---
