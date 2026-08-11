@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: category
 title: Organization 
 sidebar_sort_order: 7
 ---

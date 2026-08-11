@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: category
 title: Talks
 sidebar_sort_order: 5
 ---
