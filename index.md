@@ -4,9 +4,11 @@ title: Home
 sidebar_link: false
 ---
 
-I am a CNRS Research Director, working at the [Laboratory of Biology and Modeling of the Cell [LBMC](https://www.ens-lyon.fr/LBMC), [ENS de Lyon](https://www.ens-lyon.fr). My research focuses on developing **statistical learning and artificial intelligence methods** for the analysis of **single-cell and spatial omics data**.
+# Welcome ! 
 
-*Statistical inference · Kernel methods · Spatial Processes · Spatial omics · Explainable AI*
+I am a CNRS Research Director, working at the [Laboratory of Biology and Modeling of the Cell](https://www.ens-lyon.fr/LBMC), [ENS de Lyon](https://www.ens-lyon.fr). My research focuses on developing **statistical learning and artificial intelligence methods** for the analysis of **single-cell and spatial omics data**.
+
+*Statistical inference · Kernel methods · Point processes · Single-cell omics · Explainable AI*
 
 ---
 
